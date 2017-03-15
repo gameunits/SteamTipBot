@@ -1,0 +1,20 @@
+{
+    "name": "SteamTipBot",
+    "version": "0.0.1",
+    "description": "Tip Gamers on Steam with Gameunits!",
+    "keywords": ["SteamTipBot"],
+    "repository": "git://github.com/gameunits/SteamTipBot.git",
+    "author": "the_rod",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+    "node-gameunits": "*",
+    "mongodb": "1.4.5",
+    "typescript-compiler": "*",
+    "async": "0.9.0",
+    "cheerio": "0.16.0",
+    "numeral": "1.5.3",
+    "request": "2.36.0",
+    "srcds-rcon": "1.1.5",
+	"steam": "0.6.6"
+  }
+}
